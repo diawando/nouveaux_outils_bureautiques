@@ -638,7 +638,7 @@ section.coming-soon {
 .why-us .col-md-4 .card,
 .courses .col-md-4 .card,
 .video1 .col-md-4 .card{
-  width:18rem!important;
+  width:18rem;
 }
 /** fin cartes**/
 .coming-soon .col-md-4 .card img{
