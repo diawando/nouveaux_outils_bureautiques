@@ -57,11 +57,13 @@ body {
 
 
 .main-header {
-    background-color: #0033cc;
     height: 80px;
     
 }
 
+.navbar{
+    background-color:#0033cc;
+}
 .main-header .logo {
     float: left;
     line-height: 80px;
