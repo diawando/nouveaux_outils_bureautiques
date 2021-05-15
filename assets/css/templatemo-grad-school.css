@@ -634,6 +634,12 @@ section.coming-soon {
 .video1 .col-md-4{
   margin:0px;
 }
+.coming-soon .col-md-4 .card,
+.why-us .col-md-4 .card,
+.courses .col-md-4 .card,
+.video1 .col-md-4 .card{
+  width:18rem!important;
+}
 /** fin cartes**/
 .coming-soon .col-md-4 .card img{
   height: 350px;
